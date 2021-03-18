@@ -17,7 +17,7 @@ let project_list = [
 		title: 'Twitter',
 		des:
 			"Full Stack Application using the python Django in the backend, react and redux in the frontend, you can create your own Tweets, Twitter user follow other users. If you follow someone you can see their tweets on your home page, you can see all user’s Tweets on Explore page, you can add like, comments, and bookmark other tweets, and you can search on other people's profile.",
-		tags: ['React', "Redux", "Django", "Cloudinary", "Djoser"],
+		tags: ['React', "Redux", "Django", "Djoser", "Cloudinary",],
 		links: {
 			launch: 'https://tweeeeeter.herokuapp.com/home',
 			github: 'https://github.com/ameedasmah/Tweetler.git'

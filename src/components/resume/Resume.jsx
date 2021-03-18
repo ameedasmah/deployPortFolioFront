@@ -45,7 +45,7 @@ export default function Resume() {
                 justifyContent: "center",
                 marginBottom: "20px",
                 fontSize: "19px",
-                // textTransform: "uppercase",
+                textTransform: "lowercase",
                 fontFamily: "Work Sans"
             }}>
                 <div>
