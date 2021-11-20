@@ -1,14 +1,13 @@
 let project_list = [
 	{
-		image:
-			'https://media.discordapp.net/attachments/763317063266729986/793144962908815380/unknown.png?width=1025&height=471',
-		title: 'Online School System',
+		image:"https://i.ibb.co/N6yDjmz/9ae8b8fd-b232-4dac-bc3a-8aaf22f7da3e.jpg",
+		title: 'ZAIT-ZATAR',
 		des:
-			"full Stack Application using the python Django in the backend, react and redux in the frontend, it’s about manage a School system, it has adminwith all control, portal for Students/Parents, Staff, Teachers, Classes, Subjects and Exams. ",
-		tags: ['React', 'Redux', 'typeScript', 'Django', 'Firebase', 'Cloudenary'],
+			"Restaurant App to Provide commerce solution for customer, the app provide many features, users can add to cart and confirm their orders according to their location, a panel to track order’s status from the first submition to completion, favorite products and search functionality to search either for dishes or restaurants, it provides solution for restaurants owners by receiving orders in live time and chose which delivery company to deliver the order, that will notify the user at each step. ",
+		tags: ['React', 'Redux', 'React-Native', 'FireBase'],
 		links: {
 			// launch: 'https://online-clothing-store.herokuapp.com/',
-			github: 'https://github.com/ameedasmah/OnlineSchoolSystem'
+			github: 'https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40asem-basheer/Zait_Zatar-62820291b9d74b17b8e2d22ed65104f9-signed.apk'
 		}
 	},
 	{
