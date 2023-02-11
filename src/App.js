@@ -11,6 +11,7 @@ import Section from "./components/Section/Section.component";
 
 class App extends Component { //
   render() {
+    
     return (
       <React.Fragment>
         <ScrollableTabsButtonForce />
